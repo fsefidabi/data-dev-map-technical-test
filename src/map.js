@@ -107,8 +107,7 @@ export default class Map {
 
     await fetch(`./images/${imageName}`)
       .then(response => {
-        const contentLength = response.headers.get("Content-Length")
-        if (imageName && parseInt(contentLength)) {
+        if (response.status != 404) {
           htmlContent = "<img src='/images/" + imageName + "' />"
         }
       })
