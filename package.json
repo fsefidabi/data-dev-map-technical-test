@@ -1,0 +1,22 @@
+{
+  "name": "data-dev-map-technical-test",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Farzaneh Sefidabi",
+  "repository": {
+    "url": "https://github.com/fsefidabi/data-dev-map-technical-test"
+  },
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.16.0",
+    "@turf/turf": "^6.5.0",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}

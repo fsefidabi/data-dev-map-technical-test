@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.665274570329176,52.114170264620995,68.35893479082733]},"properties":{"code":"allterra-20220621-111058-373__0000000000__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.665235656357154,52.11414229159724,68.33393479138613]},"properties":{"code":"allterra-20220621-111525-125__0000000001__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.6651966858385,52.11411407564773,68.29793478827924]},"properties":{"code":"allterra-20220621-111526-159__0000000002__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.665156718024898,52.114086432265715,68.26093479059637]},"properties":{"code":"allterra-20220621-111527-095__0000000003__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.665116383491048,52.11405901259904,68.23993478901684]},"properties":{"code":"allterra-20220621-111527-992__0000000004__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.665078942570897,52.11403132242173,68.18293478805572]},"properties":{"code":"allterra-20220621-111528-833__0000000005__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.66504345432626,52.114002253192695,68.17393478844315]},"properties":{"code":"allterra-20220621-111529-625__0000000006__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.66500705008982,52.11397265089207,68.17793479003012]},"properties":{"code":"allterra-20220621-111530-398__0000000007__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.66496784877013,52.11394409255888,68.1749347904697]},"properties":{"code":"allterra-20220621-111531-158__0000000008__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.664924647500822,52.113917294037996,68.1759347897023]},"properties":{"code":"allterra-20220621-111531-930__0000000009__01__40112672.jpg"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.664879604279053,52.11389270200833,68.16493478883058]},"properties":{"code":"allterra-20220621-111532-701__0000000010__01__40112672.jpg"}}
+]}
