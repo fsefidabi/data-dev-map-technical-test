@@ -105,17 +105,20 @@ export default class Map {
       })
     })
 
-    await fetch(`./images/${imageName}`).then(response => {
-      const contentLength = response.headers.get("Content-Length")
-      if (imageName && parseInt(contentLength)) {
-        htmlContent = "<img src='/images/" + imageName + "' />"
-      }
-    })
+    await fetch(`./images/${imageName}`)
+      .then(response => {
+        const contentLength = response.headers.get("Content-Length")
+        if (imageName && parseInt(contentLength)) {
+          htmlContent = "<img src='/images/" + imageName + "' />"
+        }
+      })
+      .catch(error => {
+        console.error(`Error happened in fetching image with name ${imageName}: ${error}`)
+      })
 
     layer.bindPopup(htmlContent, {
       closeButton: false
     })
-
   }
 }
 
