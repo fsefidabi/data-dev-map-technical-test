@@ -2,6 +2,8 @@
 
 This project represents the implementation of a technical test, containing all three specified tasks in the test description :map integration, drawing on map, and measurement on map.
 
+**Live Demo:** https://data-dev-map-technical-test.vercel.app/
+
 ![screenshot](https://github.com/fsefidabi/data-dev-map-technical-test/blob/master/screenshot.png)
 
 ## Stack
